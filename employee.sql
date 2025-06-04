@@ -1,1 +1,1 @@
-Select * from employee;
+Select * from proj.employee;
